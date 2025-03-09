@@ -1,7 +1,3 @@
-!pip install seaborn
-!pip install pandas
-!pip install matplotlib
-
 import streamlit as st
 import seaborn as sns
 import pandas as pd
