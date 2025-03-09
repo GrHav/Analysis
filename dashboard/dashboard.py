@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 sns.set(style='dark')
 
-all_df = pd.read_csv("all_data.csv")
+all_df = pd.read_csv("data\all_data.csv")
 
 with st.sidebar:
     st.text("Pemula")
