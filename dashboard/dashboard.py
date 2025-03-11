@@ -7,7 +7,7 @@ sns.set(style='dark')
 all_df = pd.read_csv("data/all_data.csv")
 
 with st.sidebar:
-    st.text("Pemula")
+    st.text("Robert Varian MC-46")
     st.image("https://media.istockphoto.com/id/1256527934/vector/air-quality-index-educational-scheme-with-excessive-quantities-of-substances-or-gases-in.jpg?s=612x612&w=0&k=20&c=vx4E-KMNVGwXLz7CQaziOSotMHDMa0_6CRnDazYdHEM=")
 
 with st.container():
