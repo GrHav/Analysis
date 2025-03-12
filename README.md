@@ -17,6 +17,7 @@ pip install streamlit seaborn matplotlib pandas
 ````
 ## Run streamlit app
 ````
+note : pastikan requirements.txt berada di root atau directory terluar.
 cd dashboard
 streamlit run dashboard.py
 ````
