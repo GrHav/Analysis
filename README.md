@@ -11,5 +11,5 @@ pipenv shell\
 pip install -r requirements.txt
 
 ## Run streamlit app
-cd dashboard
+cd dashboard\
 streamlit run dashboard.py
