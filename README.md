@@ -5,10 +5,10 @@ Tujuan analisis ini dibuat adalah untuk mencari informasi yang terkandung dalam 
 
 ## Setup Environment - Shell/Terminal
 ````
-mkdir proyek_analisis_data\
-cd proyek_analisis_data\
-pipenv install\
-pipenv shell\
+mkdir proyek_analisis_data
+cd proyek_analisis_data
+pipenv install
+pipenv shell
 pip install -r requirements.txt
 ````
 ## Run streamlit app
