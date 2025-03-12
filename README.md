@@ -1,5 +1,5 @@
 # Analysis
-Berikut merupakan url dari streamlit saya : https://analysis-dpulmcv7ngbwvbjwfghf3v.streamlit.app/
+Berikut merupakan url dari streamlit saya : https://analysis-dpulmcv7ngbwvbjwfghf3v.streamlit.app/  (anda dapat klik pada tautan ini untuk melihat hasilnya)
 
 Tujuan analisis ini dibuat adalah untuk mencari informasi yang terkandung dalam data yang ada.
 
