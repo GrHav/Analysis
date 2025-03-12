@@ -11,6 +11,10 @@ pipenv install
 pipenv shell
 pip install -r requirements.txt
 ````
+## Download dependencies (library)
+````
+pip install streamlit seaborn matplotlib pandas
+````
 ## Run streamlit app
 ````
 cd dashboard
